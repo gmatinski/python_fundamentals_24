@@ -5,3 +5,5 @@ for index, char in enumerate(word):
         my_list.append(index)
 
 print(my_list)
+
+
