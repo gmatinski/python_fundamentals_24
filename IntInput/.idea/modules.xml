@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/IntInput.iml" filepath="$PROJECT_DIR$/.idea/IntInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_funamentals/.idea/python_funamentals.iml" filepath="$PROJECT_DIR$/../python_funamentals/.idea/python_funamentals.iml" />
     </modules>
   </component>
 </project>
