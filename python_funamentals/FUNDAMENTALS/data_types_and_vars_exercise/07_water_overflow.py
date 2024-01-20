@@ -6,5 +6,5 @@ for liters_of_water in range(number_of_lines):
     if total_water > 255:
         print("Insufficient capacity!")
         total_water -= poured_water
-        continue
+        continue   # useless
 print(total_water)
